@@ -9,3 +9,4 @@ CRUD functionality is available via API:
 - DELETE http://localhost:8000/api/offer/id/ where id is the id number in the database of the specific mortgage offer
 
 The functionality is implemented using Django, DRF, django-filters.
+HTML/css is implemented using BS5
